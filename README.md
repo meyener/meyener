@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [E-Commerce Project](https://github.com/meyener/E-Commerce-Full-Stack-Spring-Angular-in-the-progress)
 
-- 🌱 I’m currently learning **advanced spring framework**
+- 🌱 I’m currently learning **Advanced Spring Framework**
 
 - 📝 I regularly write articles on [https://medium.com/@mekremyener](https://medium.com/@mekremyener)
 
-- 💬 Ask me about **java, spring boot**
+- 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **mekremyener@gmail.com**
 
