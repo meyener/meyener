@@ -1,5 +1,5 @@
 
- ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Blue-And-Red-Over-The-Mountains.jpg)
+ ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Peaceful-Snowy-Mountains-At-Night.jpg)
 
 
 <h1 align="center">Hi 👋, I'm M.Ekrem Yener</h1>
