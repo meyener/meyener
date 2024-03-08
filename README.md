@@ -3,11 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm M.Ekrem YENER</h1>
-<h3 align="center">A code lover back-end developer from Türkiye</h3>
+<h3 align="center">A code lover back-end developer</h3>
 
 - 🔭 I’m currently working on [E-Commerce Project](https://github.com/meyener/E-Commerce-Full-Stack-Spring-Angular-in-the-progress)
 
-- 🌱 I’m currently learning **Advanced Spring Framework**
+- 🌱 I’m currently learning **Angular**
 
 - 📝 I regularly write articles on [https://medium.com/@mekremyener](https://medium.com/@mekremyener)
 
