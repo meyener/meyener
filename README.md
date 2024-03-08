@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Project](https://github.com/meyener/E-Commerce-Full-Stack-Spring-Angular-in-the-progress)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, Master Spring Framework**
 
 - 📝 I regularly write articles on [https://medium.com/@mekremyener](https://medium.com/@mekremyener)
 
