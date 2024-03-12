@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Spring, FrameworkAngular**
 
-- 📝 I regularly write articles on [https://medium.com/@mekremyener](https://medium.com/@mekremyener)
+- 📝 I write articles on [https://medium.com/@mekremyener](https://medium.com/@mekremyener)
 
 - 💬 Ask me about **Java, Spring Boot**
 
